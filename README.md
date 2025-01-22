@@ -1,4 +1,4 @@
 # githubmac
 this is my frist repository
-<bar>
+<br>
 my name is khan
